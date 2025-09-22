@@ -7,15 +7,27 @@ The dataset includes workout features such as *time per workout, type of program
 
 
 
-#### **Group Members** 
+#### ⚙️Data Set
+
+Source-Kaggle
+
+Size-2500
+
+Features-9
 
 
 
-Kurukulasooriya P.K.B.B. IT24100203
 
-Appuhamy P .P .D. A .S .K. IT24100566 
 
-Rambukwella T O. IT24100375
+#### **🛑Group Members**
 
-Gunarathne A.A.C.T IT24100459
+
+
+Kurukulasooriya P.K.B.B. IT24100203 - Outlier Handling
+
+Appuhamy P .P .D. A .S .K. IT24100566- Encoding 
+
+Rambukwella T O. IT24100375- Null values handling
+
+Gunarathne A.A.C.T IT24100459- Scaling and Feature Engineering
 
